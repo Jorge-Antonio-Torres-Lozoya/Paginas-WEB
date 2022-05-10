@@ -1,0 +1,308 @@
+div.parte1 ul li {
+    display: inline-block;
+    width: 380px;
+    height: 280px;
+    background-color: white;
+    border: red 2px solid;
+
+}
+
+ul {
+    padding: 0px 0px;
+    margin: 2px 2px;
+    display: inline-block;
+    
+    
+}
+
+div.parte1 ul li img#imagen-1 {
+    position: absolute;
+    
+    width: 445px;
+    height: 281px;
+    margin-top: 0px;
+    
+}
+div.parte1 ul li#li-2{
+    display: inline-block;
+    width: 445px;
+    height: 281px;
+
+}
+div.parte1 {
+   position: absolute;
+
+    width: 842px;
+    height: 290px;
+    border: red solid 2px;
+}
+li#li-1 h3{
+     margin-top: 40px;
+    margin-left: 15px;
+    position: absolute;
+    display:inline-block;
+}
+li#li-1 h4{
+    text-align: justify;
+    margin-left: 15px;
+    margin-top: 80px;
+    width: 350px;
+    position: absolute;
+    display:inline-block;
+    
+}
+div.parte2{
+    margin-left: 15px;
+   
+    display: inline-block;
+    width: 480px;
+    height: 160px;
+    border: red 2px solid;
+    position: absolute;
+    left: 850px;
+
+}
+.contact, .logo-1{
+    display: inline-block;
+   
+}
+ul#lista-2, ul#lista-2 li{
+  
+ 
+    display: inline-block;
+    text-decoration: none;
+
+}
+
+
+.contact{
+    width: 100px;
+    height: 150px;
+    border: red solid 2px;
+
+}
+img#logo-contacto{
+    margin-left: 20px;
+    margin-top: 28px;
+    align-items: center;
+    width: 60px;
+    height: 100px;
+}
+li.texto-logo {
+    margin-left: 2px;
+    position: absolute;
+    bottom: 4px;
+    display:inline-block ;
+    width: 364px;
+    height: 150px;
+    border: red 2px solid;
+}
+li.texto-logo h3{
+    display: inline-block;
+    margin-left: 2px;
+    margin-bottom: 2px;
+}
+li.texto-logo h4{
+    margin-top: 4px;
+    margin-left: 2px;
+}
+
+
+
+div.parte3{
+ 
+    position: absolute;
+    top: 180px;
+    left: 850px;
+
+    margin-left: 15px;
+    width: 480px;
+    height: 120px;
+    border: red 2px solid;
+    
+
+}
+img#telefono-contacto{
+    width: 60px;
+    height: 80px;
+    margin-top: 13px;
+    margin-left: 19px; 
+
+
+}
+.telefono{
+    width: 100px;
+    height: 110px;
+    border: red 2px solid;
+    position: absolute;
+    bottom: 4px;
+}
+
+ul#lista-3, ul#lista-3 li{
+  
+ 
+    display: inline-block;
+    text-decoration: none;
+
+}
+.texto-telefono {
+   
+    width: 364px;
+    height:110px;
+    border: red solid 2px;
+    position: absolute;
+   left: 108px;
+   bottom: 4px;
+
+}
+.texto-telefono h3,h4{
+    margin-left: 2px;
+}
+.contenedor1{
+    width: 327px;
+    height: 350px;
+    border: red 2px solid;
+    position: absolute;
+    top: 310px;
+
+
+}
+.contenedor2{
+    width: 327px;
+    height: 350px;
+    border: red 2px solid;
+    position: absolute;
+    top: 310px;
+  left: 345px;
+
+
+}
+.contenedor3{
+    width: 326px;
+    height: 350px;
+    border: red 2px solid;
+    position: absolute;
+    top: 310px;
+  left: 682px;
+
+
+}
+.contenedor4{
+    width: 326px;
+    height: 350px;
+    border: red 2px solid;
+    position: absolute;
+    top: 310px;
+  left: 1017px;
+
+
+}
+img#sillon{
+    width: 315px;
+    display: inline-block;
+    margin-left:6px ;
+    margin-top: 2px;
+
+}
+
+.contenedor1 .contenedor-texto{
+    position: absolute;
+    bottom: 5px;
+    left: 5px;
+ 
+    width: 312px;
+    height: 120px;
+
+    border: red solid 2px;
+}
+.contenedor1 .contenedor-texto h4, h3{
+    margin-left: 20px;
+    margin-bottom: 2px;
+   
+
+}
+.contenedor1 .contenedor-texto h4{
+    margin-top: 5px;
+    
+   
+}
+img#ropa{
+    width: 315px;
+    height: 210px;
+    margin-left:6px ;
+    margin-top: 2px;
+
+}
+.contenedor2 .contenedor-texto {
+
+    position: absolute;
+    bottom: 5px;
+    left: 5px;
+ 
+    width: 312px;
+    height: 120px;
+
+    border: red solid 2px;
+
+}
+.contenedor2 .contenedor-texto h4, h3{
+    margin-left: 20px;
+    margin-bottom: 2px;
+   
+
+}
+
+
+
+img#pastel{
+    width: 315px;
+    height: 210px;
+    margin-left:6px ;
+    margin-top: 2px;
+
+}
+.contenedor3 .contenedor-texto {
+
+    position: absolute;
+    bottom: 5px;
+    left: 5px;
+ 
+    width: 312px;
+    height: 120px;
+
+    border: red solid 2px;
+
+}
+.contenedor3 .contenedor-texto h4, h3{
+    margin-left: 20px;
+    margin-bottom: 2px;
+   
+
+}
+
+
+img#pintura{
+    width: 315px;
+    height: 210px;
+    margin-left:6px ;
+    margin-top: 2px;
+
+}
+.contenedor4 .contenedor-texto {
+
+    position: absolute;
+    bottom: 5px;
+    left: 5px;
+ 
+    width: 312px;
+    height: 120px;
+
+    border: red solid 2px;
+
+}
+.contenedor4 .contenedor-texto h4, h3{
+    margin-left: 20px;
+    margin-bottom: 2px;
+   
+
+}
